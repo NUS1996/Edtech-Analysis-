@@ -40,9 +40,9 @@ The analysis aims to:
    - Consider a limit of 60 hours of content per month, with flexible schedules allowing up to 200 hours.
 
 ## 📈 Tools Used
-- **Power BI** for interactive visualizations.
-- **Excel** for data cleaning and preprocessing.
-- **SQL** for querying and manipulating the dataset.
+- **Power BI** for interactive visualizations. 
+- **Power Query** for data cleaning and preprocessing.
+- **DAX** for querying and manipulating the dataset.
 
 ## 📊 Dashboard Insights
 The final dashboard will include:
