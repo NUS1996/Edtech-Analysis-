@@ -63,7 +63,4 @@ The final dashboard will include:
 ## 🌟 Conclusion
 This project empowers the EdTech startup to make data-driven decisions by providing key insights into course offerings, viewer preferences, and instructor performance. It strategically guides content development to maximize learner engagement and market relevance.
 
----
-
-Let me know if you'd like any tweaks or a more detailed breakdown of any section!
 
